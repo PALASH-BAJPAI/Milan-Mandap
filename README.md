@@ -130,8 +130,7 @@ Find Potential matches
 
 - **Flask**: For building the backend API.  
 - **Flask-SQLAlchemy**: ORM for database interaction.  
-- **SQLite**: File-based database for lightweight storage.  
-- **Geopy**: Geocoding library to fetch state information based on cities.  
+- **SQLite**: File-based database for lightweight storage.   
 - **Python**: Core programming language for the backend logic.  
 
 # Potential Improvements
